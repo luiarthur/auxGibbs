@@ -1,0 +1,4 @@
+#!/bin/bash
+#scalac -d Classes "$@" 
+scalac -d Classes algorithm8.scala 
+# To Run: scala -cp classes <object>

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#scala -cp Classes "$@"
+rm -f  {theta,yc}.txt
+
+#scala -cp Classes algorithm8  results.txt
+scala -cp Classes algorithm8 
